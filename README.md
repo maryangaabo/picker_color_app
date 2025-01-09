@@ -1,16 +1,3 @@
-# picker_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1736409101](https://github.com/user-attachments/assets/06d634d0-aa18-4022-a397-bfd9fca2f493)
+![Screenshot_1736409094](https://github.com/user-attachments/assets/05f4cd31-3069-4ca6-a00e-7bb526d83f8a)
